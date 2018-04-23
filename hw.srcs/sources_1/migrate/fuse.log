@@ -1,0 +1,19 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/ISE/E1339/m1/OExp13-SOC/keytst_isim_beh.exe" -prj "D:/ISE/E1339/m1/OExp13-SOC/keytst_beh.prj" "work.keytst" "work.glbl" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/ISE/E1339/m1/OExp13-SOC/PS2.v" into library work
+Analyzing Verilog file "D:/ISE/E1339/m1/OExp13-SOC/keytst.v" into library work
+Analyzing Verilog file "D:/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module PS2
+Compiling module keytst
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 3 Verilog Units
+Built simulation executable D:/ISE/E1339/m1/OExp13-SOC/keytst_isim_beh.exe
+Fuse Memory Usage: 28096 KB
+Fuse CPU Usage: 405 ms

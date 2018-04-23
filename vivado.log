@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Sun Apr 15 09:40:08 2018
+# Process ID: 324912
+# Current directory: D:/ISE/hw/DXQ
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent330488 D:\ISE\hw\DXQ\hw.xpr
+# Log file: D:/ISE/hw/DXQ/vivado.log
+# Journal file: D:/ISE/hw/DXQ\vivado.jou
+#-----------------------------------------------------------
+start_gui
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Apr 15 09:41:51 2018...

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/ISE/E1339/m1/OExp13-SOC/keytst_isim_beh.exe" -prj "D:/ISE/E1339/m1/OExp13-SOC/keytst_beh.prj" "work.keytst" "work.glbl" 
